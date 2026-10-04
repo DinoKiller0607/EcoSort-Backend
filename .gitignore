@@ -1,5 +1,6 @@
 /.venv
 /.idea
 /.env
+/__pycache
 ecosort-ai-sota.onnx.data
 ecosort-ai-sota.onnx
